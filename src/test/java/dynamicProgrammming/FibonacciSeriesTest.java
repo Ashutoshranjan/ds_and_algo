@@ -22,7 +22,6 @@ public class FibonacciSeriesTest {
         Assert.assertEquals(1, fibonacciSeries.fs_recursion(1));
         Assert.assertEquals(2, fibonacciSeries.fs_recursion(3));
         Assert.assertEquals(5, fibonacciSeries.fs_recursion(5));
-        Assert.assertEquals(8, fibonacciSeries.fs_recursion(6));
     }
 
     @Test
