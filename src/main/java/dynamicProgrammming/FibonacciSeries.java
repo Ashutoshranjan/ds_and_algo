@@ -13,8 +13,9 @@ public class FibonacciSeries {
     }
 
 
-    //n-1[]  array 0[1] 1[1] 2[]
-    //
+    //Using Dynamic Programming
+    //Storing values hence optimized time complexity
+
      int fs_dp(int n){
          int array[] = new int[n+2]; //including for index 0
          array[0]=0;
