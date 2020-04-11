@@ -3,7 +3,7 @@ package java8.lambdaExpressions;
 import java.util.Comparator;
 
 /**
- * Created by sssau on 11-04-2020.
+ * Created by Ashutosh Ranjan on 11-04-2020.
  */
 public class MyComparator1 implements Comparator{
 

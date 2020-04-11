@@ -6,7 +6,7 @@ import java.util.Comparator;
 import java.util.List;
 
 /**
- * Created by sssau on 11-04-2020.
+ * Created by Ashutosh Ranjan on 11-04-2020.
  */
 public class SortingDemo2 {
 //Sorting list in descending order with Lambda Expression

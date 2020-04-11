@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * Created by sssau on 11-04-2020.
+ * Created by Ashutosh Ranjan on 11-04-2020.
  */
 public class SortingDemo1 {
     //Sorting list in descending order without Lambda Expression

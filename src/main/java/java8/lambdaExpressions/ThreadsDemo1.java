@@ -1,7 +1,7 @@
 package java8.lambdaExpressions;
 
 /**
- * Created by sssau on 11-04-2020.
+ * Created by Ashutosh Ranjan on 11-04-2020.
  */
 public class ThreadsDemo1 implements Runnable{
     //Creating Threads without using lambda Expressions
