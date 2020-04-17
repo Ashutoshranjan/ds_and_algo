@@ -22,5 +22,8 @@ public class FunctionChainingDemo {
         System.out.println(function1.andThen(function2).apply(10));
         System.out.println(function1.compose(function2).apply(10));
 
+        Function<String, String> f3 = Function.identity();
+        System.out.println(f3.apply("hello"));
+
     }
 }
