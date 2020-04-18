@@ -43,6 +43,11 @@ public class DateTimeDemo {
         System.out.printf("\n %d:%d:%d:%d",h1,m1,s1,n1);
 
 
+        LocalDateTime dateTime1 = LocalDateTime.of(2007,4,1, 10,00,10,9);
+        System.out.println(dateTime1);
+        System.out.println("After 6 months: "+dateTime1.plusMonths(6));
+        System.out.println("Before 6 days: "+dateTime1.minusDays(6));
+
 
     }
 }
